@@ -1,0 +1,4 @@
+- Bu çalışma dosyası kapsamında Lasso regresyon modeli anlatılmaktadır.
+- Bu model Ridge fonksyonu kapsamında farkı şudurki ridge fonksyou lambda kaç sayısı 0 olamaz iken Lasso modelinin kat sayısı 0 olabilr
+- Bu özellik ona şu artıyı katmaktadır. Ben bir paremetre gitrişini modelimin nihayi sonuçuna etki etmesini istemiyorum bunun için bu paremetreyi 0 olarak endes alanı içine alabilirim.
+- Bu avantaj bana tahmin yada bağımlı değişken tahmininde daha ajantajlı sonuçlar üretmeme yardımcı olabilmekltedir.
